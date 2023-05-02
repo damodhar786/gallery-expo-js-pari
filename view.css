@@ -1,0 +1,22 @@
+/* Pre-view */
+
+h1 {
+    padding: 20px;
+}
+
+.view_navbar_ul {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.view_navbar_li {
+
+    margin: 2px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.view_navbar_li:hover {
+    background: blue;
+}
